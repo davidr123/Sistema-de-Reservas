@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RestaurantPlatform.Api/RestaurantPlatform.Api.csproj" />
+    <Project Path="src/RestaurantPlatform.Application/RestaurantPlatform.Application.csproj" />
+    <Project Path="src/RestaurantPlatform.Domain/RestaurantPlatform.Domain.csproj" />
+    <Project Path="src/RestaurantPlatform.Infrastructure/RestaurantPlatform.Infrastructure.csproj" />
+    <Project Path="src/RestaurantPlatform.Persistence/RestaurantPlatform.Persistence.csproj" />
+    <Project Path="src/RestaurantPlatform.Shared/RestaurantPlatform.Shared.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\RestaurantPlatform.Domain\\Common",
+    "\\src\\RestaurantPlatform.Domain\\Entities",
+    "\\src\\RestaurantPlatform.Infrastructure",
+    "\\src\\RestaurantPlatform.Infrastructure\\Persistence",
+    "\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations"
+  ],
+  "SelectedNode": "\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserRoleConfiguration.cs",
+  "PreviewInSolutionExplorer": false
+}

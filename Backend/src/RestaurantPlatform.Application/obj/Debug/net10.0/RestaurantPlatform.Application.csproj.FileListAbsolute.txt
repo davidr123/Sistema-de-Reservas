@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\bin\Debug\net10.0\RestaurantPlatform.Application.deps.json
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\bin\Debug\net10.0\RestaurantPlatform.Application.dll
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\bin\Debug\net10.0\RestaurantPlatform.Application.pdb
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\bin\Debug\net10.0\RestaurantPlatform.Domain.dll
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\bin\Debug\net10.0\RestaurantPlatform.Domain.pdb
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\RestaurantPlatform.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\RestaurantPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\RestaurantPlatform.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\RestaurantPlatform.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\RestaurantPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\Restaura.B272D630.Up2Date
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\RestaurantPlatform.Application.dll
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\refint\RestaurantPlatform.Application.dll
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\RestaurantPlatform.Application.pdb
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Application\obj\Debug\net10.0\ref\RestaurantPlatform.Application.dll

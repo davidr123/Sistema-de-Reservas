@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF24808-C6B9-DFE5-0782-80291464269F}|src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CF24808-C6B9-DFE5-0782-80291464269F}|src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj|solutionrelative:src\\restaurantplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF24808-C6B9-DFE5-0782-80291464269F}|src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.api\\restaurantplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CF24808-C6B9-DFE5-0782-80291464269F}|src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj|solutionrelative:src\\restaurantplatform.api\\restaurantplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF24808-C6B9-DFE5-0782-80291464269F}|src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF24808-C6B9-DFE5-0782-80291464269F}|src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj|solutionrelative:src\\restaurantplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\auditlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\auditlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\contactmessageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\contactmessageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\mediaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\mediaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\reservationareaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\reservationareaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF24808-C6B9-DFE5-0782-80291464269F}|src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.api\\restaurantplatform.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7CF24808-C6B9-DFE5-0782-80291464269F}|src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj|solutionrelative:src\\restaurantplatform.api\\restaurantplatform.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\specialevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\specialevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\systemparameterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\systemparameterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\systemparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\systemparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\specialeventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\specialeventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\areaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\areaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\floorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\floorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\reservationarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\reservationarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836CCBF6-80B0-8124-B625-A23C44D230D7}|src\\RestaurantPlatform.Domain\\RestaurantPlatform.Domain.csproj|solutionrelative:src\\restaurantplatform.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|c:\\users\\user\\desktop\\cursos_2026\\sistema de reservas\\backend\\src\\restaurantplatform.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6D791-18D3-12A6-2C29-8A19336AC14B}|src\\RestaurantPlatform.Infrastructure\\RestaurantPlatform.Infrastructure.csproj|solutionrelative:src\\restaurantplatform.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MediaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\MediaConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\MediaConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\MediaConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\MediaConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:35:26.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactMessageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ContactMessageConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ContactMessageConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ContactMessageConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ContactMessageConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:36:07.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditLogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\AuditLogConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\AuditLogConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\AuditLogConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\AuditLogConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:36:38.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\RestaurantDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\RestaurantDbContext.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\RestaurantDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:42:20.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Api\\appsettings.json",
+              "RelativeToolTip": "src\\RestaurantPlatform.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-10T17:43:26.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Api\\Program.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:47:06.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantPlatform.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj",
+              "RelativeToolTip": "src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-10T17:48:54.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\NotificationConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\NotificationConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\NotificationConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\NotificationConfiguration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:33:34.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\PaymentConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\PaymentConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\PaymentConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\PaymentConfiguration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:32:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationAreaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ReservationAreaConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ReservationAreaConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ReservationAreaConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ReservationAreaConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:27:06.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RestaurantPlatform.Api.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.http",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.http",
+              "RelativeToolTip": "src\\RestaurantPlatform.Api\\RestaurantPlatform.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-10T17:48:27.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SystemParameterConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\SystemParameterConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\SystemParameterConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\SystemParameterConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\SystemParameterConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:37:12.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SystemParameter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\SystemParameter.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\SystemParameter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\SystemParameter.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\SystemParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:36:55.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:36:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpecialEvent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\SpecialEvent.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\SpecialEvent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\SpecialEvent.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\SpecialEvent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:33:52.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:33:05.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ReservationConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ReservationConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ReservationConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\ReservationConfiguration.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:17:37.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\ContactMessage.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\ContactMessage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:35:42.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Media.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\Media.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Media.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\Media.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:35:02.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpecialEventConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\SpecialEventConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\SpecialEventConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\SpecialEventConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\SpecialEventConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:34:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:32:11.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AreaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\AreaConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\AreaConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\AreaConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\AreaConfiguration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:26:34.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FloorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\FloorConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\FloorConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\FloorConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\FloorConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:22:57.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReservationArea.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\ReservationArea.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\ReservationArea.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\ReservationArea.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\ReservationArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:22:05.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Area.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\Area.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Area.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\Area.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:21:54.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Floor.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\Floor.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Floor.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:21:39.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:18:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:16:49.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:13:51.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:13:11.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:11:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:11:23.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Cursos_2026\\Sistema de Reservas\\Backend\\src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "src\\RestaurantPlatform.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T17:11:05.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

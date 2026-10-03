@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\bin\Debug\net10.0\RestaurantPlatform.Shared.deps.json
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\bin\Debug\net10.0\RestaurantPlatform.Shared.dll
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\bin\Debug\net10.0\RestaurantPlatform.Shared.pdb
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\obj\Debug\net10.0\RestaurantPlatform.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\obj\Debug\net10.0\RestaurantPlatform.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\obj\Debug\net10.0\RestaurantPlatform.Shared.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\obj\Debug\net10.0\RestaurantPlatform.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\obj\Debug\net10.0\RestaurantPlatform.Shared.dll
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\obj\Debug\net10.0\refint\RestaurantPlatform.Shared.dll
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\obj\Debug\net10.0\RestaurantPlatform.Shared.pdb
+C:\Users\User\Desktop\Cursos_2026\Sistema de Reservas\Backend\src\RestaurantPlatform.Shared\obj\Debug\net10.0\ref\RestaurantPlatform.Shared.dll
